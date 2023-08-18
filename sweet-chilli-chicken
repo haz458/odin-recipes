@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+
+
+
+</head>
+<body>
+<h1>Chilli Con Carne</h1>
+<img src="https://images.pexels.com/photos/45910/goldfish-carassius-fish-golden-45910.jpeg?cs=srgb&dl=pexels-pixabay-45910.jpg&fm=jpg" alt="gold fish" 
+<p>This is a scrumptious recipe that shall make your mouth water</p>
+<p>Whether its a date night, family night or a Christmas dinner- this recipe is bound to enter someones stomache</p>
+<h2>ingredients</h2>
+<ul>
+    <li>chicken</li>
+        <li>beef</li>
+    <li>peppers(specifically red)</li>
+</ul>
+<h2>steps</h2>
+<ol>
+<li>boil a saucepan</li>
+<li>microwave chicken</li>
+<li>cut peppers</li>
+</ol>
+</body>
+
+
+
+</html>
